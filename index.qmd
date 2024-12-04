@@ -1,40 +1,59 @@
 ---
 about:
-  template: jolla
+  template: trestles
+  #image-width: 70%
   id: about-block
-  image: "img/my_image.jpg"
+  image: "img/headshot.png"
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/MarvinSchmittML
-    - icon: github
-      text: Github
-      href: https://github.com/marvinschmitt
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    # - icon: location
+    #   text: Seattle, WA
+    #   target: _blank  
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+      href: "mailto:ikahveci@uw.edu"
+    - icon: github
+      text: Github
+      href: https://github.com/ihsankahveci
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ihsankahveci/
+    - text: '<i class="fa fa-brands fa-bluesky"></i> BlueSky'
+      href: https://bsky.app/profile/ihsankahveci.bsky.social
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-0184-9498
+    - text: '<i class="ai ai-google-scholar fa-lg"></i> Google Scholar'
+      href: https://scholar.google.com/citations?user=U6VdtXsAAAAJ&hl=en
+#    - icon: github
+#      text: Github
+#      href: https://github.com/drganghe
+#    - icon: twitter
+#      text: Twitter
+#      href: https://twitter.com/DrGangHe
+#    - icon: mastodon
+#      text: Mastodon
+#      href: https://mastodon.social/@hegang      
+
+    #   target: _blank  
+    #  - text: "{{< ai google-scholar >}} Google Scholar"
+    #   href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
+    #   target: _blank
 ---
 
 ::: {#about-block}
+
+### About 
+
+I am a doctoral candidate in Sociology at the University of Washington, specializing in innovative survey methodologies, demographic research. My work focuses on developing novel sampling and recruitment strategies to study hard-to-reach populations, with an emphasis on online and network-based methods. I expect to graduate in June 2025.
+
+### Research Interests
+
+My research tackles pressing challenges in demography, such as surveying populations without a sampling frame and addressing the limitations of traditional data collection methods. I am particularly interested in:  
+
+- Online recruitment and social media surveys  
+- Network-based sampling (e.g., respondent-driven sampling)  
+- Health and social outcomes among vulnerable populations 
+- Applications of LLMs in survey research  
+
 :::
 
-# Welcome to my website!
-
-I am Gandalf the White, a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications.
-
-My research interests span the entirety of Middle-earth, from the distant past to the present day. I am particularly passionate about the languages and mythologies of the Elves, Dwarves, and Men, and I have made significant contributions to the understanding of these subjects. My studies of the natural world have also been extensive, and I am an expert in the flora and fauna of Middle-earth. Additionally, I have been involved in many important historical events and offer valuable first-hand accounts and insights on the past.
-
-Not only am I a scholar, but I am also a mentor and teacher. Over the centuries, I have had the honor of working with many young wizards, passing on my knowledge and experience to the next generation. I have a particular interest in the education of hobbits, whom I see as having great potential despite their small size and simple lifestyle. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively.
-
-On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers.
-Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects.
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
 
