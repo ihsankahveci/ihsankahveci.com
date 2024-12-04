@@ -2,7 +2,7 @@
 
 # website settings
 website:
-  title: "Ihsan Kahveci"                                # Your name
+  title: "&#304;hsan Kahveci"                                # Your name
   description: "Ihsan is a sciencist, but a social scientist"   # A brief slogan (optional)
   image: img/headshot.png
   

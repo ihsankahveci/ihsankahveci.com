@@ -1,4 +1,5 @@
 ---
+title: "&#304;hsan Kahveci"
 about:
   template: trestles
   #image-width: 70%
@@ -41,7 +42,7 @@ about:
 
 ::: {#about-block}
 
-### About 
+### About Me
 
 I am a doctoral candidate in Sociology at the University of Washington, specializing in innovative survey methodologies, demographic research. My work focuses on developing novel sampling and recruitment strategies to study hard-to-reach populations, with an emphasis on online and network-based methods. I expect to graduate in June 2025.
 
