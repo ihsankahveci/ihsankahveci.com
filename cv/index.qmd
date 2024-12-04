@@ -2,8 +2,8 @@
 title: Curriculum Vitæ
 description: "Ihsan Kahveci's CV"
 date: 2024-11-28
-title-block-banner: "#771C6D"
-published-title: CV last updated
+#title-block-banner: "#771C6D"
+published-title: Last updated
 engine: knitr
 freeze: false
 cv:
