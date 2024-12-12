@@ -5,6 +5,7 @@ website:
   title: "&#304;hsan Kahveci"                                # Your name
   description: "Ihsan is a sciencist, but a social scientist"   # A brief slogan (optional)
   image: img/headshot.png
+  google-analytics: "G-EY73WGB4TP"
   
   #favicon: img/favicon.png
   
