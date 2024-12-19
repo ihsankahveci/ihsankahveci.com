@@ -23,7 +23,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-0184-9498
     - text: '<i class="ai ai-google-scholar fa-lg"></i> Google Scholar'
-      href: https://scholar.google.com/citations?user=U6VdtXsAAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=FaEZe_wAAAAJ&hl=en
 #    - icon: github
 #      text: Github
 #      href: https://github.com/drganghe
@@ -44,16 +44,26 @@ about:
 
 ### About Me
 
-I am a doctoral candidate in Sociology at the University of Washington, specializing in innovative survey methodologies, demographic research. My work focuses on developing novel sampling and recruitment strategies to study hard-to-reach populations, with an emphasis on online and network-based methods. I expect to graduate in June 2025.
+I am a doctoral candidate in Sociology at the University of Washington and a fellow at the International Max Planck Research School for Population, Health, and Data Science. My work focuses on developing innovative sampling and recruitment strategies to study hard-to-reach populations, such as people experiencing homelessness, people who use drugs, and refugees. By integrating online tools and network-based methods, I tackle key challenges in data collection, including declining response rates, selection bias, and the lack of traditional sampling frames.
+
+I expect to graduate in June 2025 and am currently exploring opportunities to contribute my expertise in survey methodology, public health, and computational social science. My goal is to advance these fields through interdisciplinary research that bridges academic theory and practical application, whether in academia, industry, or the public sector.
 
 ### Research Interests
 
-My research tackles pressing challenges in demography, such as surveying populations without a sampling frame and addressing the limitations of traditional data collection methods. I am particularly interested in:  
+My research addresses critical challenges in survey methodology and demographic data collection, with a focus on improving inclusivity and data quality. Specifically, I am interested in:
 
-- Online recruitment and social media surveys  
-- Network-based sampling (e.g., respondent-driven sampling)  
-- Health and social outcomes among vulnerable populations 
-- Applications of LLMs in survey research  
+- Creating innovative strategies and methods to improve the data quality and  representativeness of online surveys. This includes exploring alternative recruitment techniques, addressing biases in sampling, and leveraging platform-specific tools to engage underrepresented populations.  
+- Advancing network-based sampling methods, such as respondent-driven sampling, to study hidden and marginalized populations. My work focuses on improving implementation by automating recruitment, addressing logistical challenges, reducing biases in population estimates.
+- Examining the social and health disparities faced by vulnerable groups, including people experiencing homelessness and those affected by substance use disorders.  
+- Exploring the potential of large language models (LLMs) to transform survey research through dynamic question generation, adaptive design, and open-ended response analysis.
+
+### Current Projects
+
+My dissertation explores the intersection of survey methodology and public health. Current projects include:
+
+- **Social Media Sampling**: Evaluating social media platforms like Meta (formerly Facebook) for survey data collection. I address biases in recruitment and develop strategies to improve the representativeness of these samples.
+- **Survey Design and Sensitive Data**: Investigating how survey design affects the reporting of sensitive information among marginalized populations, such as people experiencing homelessness. This work focuses on reducing social desirability bias and improving data accuracy.
+- **Social Networks and Public Health**: Using aggregate relational data (ARD) to analyze the social networks of people who use drugs. This research informs public health interventions to prevent opioid-related overdoses by identifying key network features like trust and information flow.
 
 :::
 
