@@ -71,6 +71,7 @@ execute:
 format:
   html:
     fontsize: 1.1em
+    page-layout: full
     theme: 
       - sandstone 
       - html/sandstone.scss

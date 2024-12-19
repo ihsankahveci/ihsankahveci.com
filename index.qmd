@@ -57,13 +57,13 @@ My research addresses critical challenges in survey methodology and demographic 
 - Examining the social and health disparities faced by vulnerable groups, including people experiencing homelessness and those affected by substance use disorders.  
 - Exploring the potential of large language models (LLMs) to transform survey research through dynamic question generation, adaptive design, and open-ended response analysis.
 
-### Current Projects
+<!-- ### Current Projects
 
 My dissertation explores the intersection of survey methodology and public health. Current projects include:
 
 - **Social Media Sampling**: Evaluating social media platforms like Meta (formerly Facebook) for survey data collection. I address biases in recruitment and develop strategies to improve the representativeness of these samples.
 - **Survey Design and Sensitive Data**: Investigating how survey design affects the reporting of sensitive information among marginalized populations, such as people experiencing homelessness. This work focuses on reducing social desirability bias and improving data accuracy.
-- **Social Networks and Public Health**: Using aggregate relational data (ARD) to analyze the social networks of people who use drugs. This research informs public health interventions to prevent opioid-related overdoses by identifying key network features like trust and information flow.
+- **Social Networks and Public Health**: Using aggregate relational data (ARD) to analyze the social networks of people who use drugs. This research informs public health interventions to prevent opioid-related overdoses by identifying key network features like trust and information flow. -->
 
 :::
 
