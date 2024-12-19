@@ -1,3 +1,3 @@
-# Quarto Template for Personal Website
+# Personal Website
 
 [Visit here](https://ihsankahveci.com)
