@@ -46,7 +46,7 @@ about:
 
 I am a doctoral candidate in Sociology at the University of Washington and a fellow at the International Max Planck Research School for Population, Health, and Data Science. My work focuses on developing innovative sampling and recruitment strategies to study hard-to-reach populations, such as people experiencing homelessness, people who use drugs, and refugees. By integrating online tools and network-based methods, I tackle key challenges in data collection, including declining response rates, selection bias, and the lack of traditional sampling frames.
 
-I expect to graduate in June 2025 and am currently exploring opportunities to contribute my expertise in survey methodology, public health, and computational social science. My goal is to advance these fields through interdisciplinary research that bridges academic theory and practical application, whether in academia, industry, or the public sector.
+I expect to graduate in December 2025 and am currently exploring opportunities to contribute my expertise in survey methodology, public health, and computational social science. My goal is to advance these fields through interdisciplinary research that bridges academic theory and practical application, whether in academia, industry, or the public sector.
 
 ### Research Interests
 
