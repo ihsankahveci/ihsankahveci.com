@@ -2,7 +2,7 @@
 title: "&#304;hsan Kahveci"
 about:
   template: trestles
-  #image-width: 70%
+  #image-width: 100%
   id: about-block
   image: "img/headshot.png"
   links:

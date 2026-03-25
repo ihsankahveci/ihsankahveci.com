@@ -72,6 +72,9 @@ format:
   html:
     fontsize: 1.1em
     page-layout: full
+    grid:
+      body-width: 800px
+      sidebar-width: 10px
     theme: 
       - sandstone 
       - html/sandstone.scss
