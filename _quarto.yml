@@ -58,6 +58,8 @@ website:
 project:
   type: website
   output-dir: docs
+  resources:
+    - "video"
 
   preview: 
     port: 22222
