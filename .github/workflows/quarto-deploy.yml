@@ -21,8 +21,22 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Create .env file
-        run: echo "YOUTUBE_URL=${{ secrets.YOUTUBE_URL }}" > .env
+      - name: Set up video redirect
+        run: |
+          YOUTUBE_URL="${{ secrets.YOUTUBE_URL }}"
+          cat > video/index.html <<EOF
+          <!DOCTYPE html>
+          <html>
+            <head>
+              <meta name="robots" content="noindex">
+              <meta http-equiv="refresh" content="0; url='${YOUTUBE_URL}'">
+              <title>Redirecting...</title>
+            </head>
+            <body>
+              <p>If you are not redirected, <a href="${YOUTUBE_URL}">click here</a>.</p>
+            </body>
+          </html>
+          EOF
 
       - name: Render website
         run: quarto render
