@@ -24,6 +24,7 @@ jobs:
       - name: Set up video redirect
         run: |
           YOUTUBE_URL="${{ secrets.YOUTUBE_URL }}"
+          mkdir -p video
           cat > video/index.html <<EOF
           <!DOCTYPE html>
           <html>
